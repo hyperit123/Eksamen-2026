@@ -1,1 +1,1 @@
-# Eksamen-2026
+Hi dette er exsamens githuben min
